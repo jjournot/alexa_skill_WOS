@@ -1,0 +1,37 @@
+{
+  "intents": [
+    {
+      "intent": "WallOfShameAddition",
+      "slots": [
+        {
+          "name": "Player",
+          "type": "LIST_OF_PLAYERS"
+        }
+      ]
+    },
+    {
+      "intent": "WallOfShameRemoval",
+      "slots": [
+        {
+          "name": "Player",
+          "type": "LIST_OF_PLAYERS"
+        }
+      ]
+    },
+    {
+      "intent": "WallOfShameWorst"
+    },
+    {
+      "intent": "WallOfShameClean"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+}

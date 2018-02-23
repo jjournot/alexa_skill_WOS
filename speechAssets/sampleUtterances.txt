@@ -1,0 +1,15 @@
+WallOfShameAddition Add {Player} to the wall
+WallOfShameAddition Add {Player} to the wall of shame
+WallOfShameAddition Add {Player}
+WallOfShameAddition Pin {Player} to the wall
+WallOfShameAddition Pin {Player} to the wall of shame
+WallOfShameAddition Pin {Player}
+WallOfShameRemoval Remove {Player} from the wall
+WallOfShameRemoval Remove {Player} from the wall of shame
+WallOfShameRemoval Remove {Player}
+WallOfShameRemoval Pardon {Player} from the wall
+WallOfShameRemoval Pardon {Player} from the wall of shame
+WallOfShameRemoval Pardon {Player}
+WallOfShameWorst Who's the worst player
+WallOfShameWorst Who sucks the most
+WallOfShameWorst Who deserves the most to be here
